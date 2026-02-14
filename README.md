@@ -2,7 +2,7 @@
 
 # :crossed_swords: Saga
 
-### Campaign Management for Dungeon Masters
+### Campaign Management for Any Roleplaying Player
 
 ![Saga — Campaign Management](docs/screenshots/hero.png)
 
@@ -23,7 +23,7 @@ Built for DMs who want a digital companion for their tabletop adventures.
 
 ## Overview
 
-Saga is a full-featured campaign management tool built for Dungeon Masters who run tabletop RPG sessions. It replaces scattered notebooks, spreadsheets, and browser tabs with a single, purpose-built interface that supports every phase of the game -- prep before the session, play at the table, and review afterward.
+Saga is a full-featured campaign management tool built for Roleplaying Player or Dungeon Masters who run tabletop RPG sessions. It replaces scattered notebooks, spreadsheets, and browser tabs with a single, purpose-built interface that supports every phase of the game -- prep before the session, play at the table, and review afterward.
 
 The application ships with a seed campaign (*The Hollow Stars*), four characters, twelve badges, five sessions, and over fifteen milestones so you can explore every feature immediately.
 
