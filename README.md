@@ -82,12 +82,12 @@ Saga is part of a 7-tool suite built for Dungeon Masters who want focused, offli
 | Tool | Description |
 |------|-------------|
 | **Saga** | Campaign management — characters, timelines, badges, session logs |
-| **[Loreforge](https://github.com/Jarredkern/loreforge)** | Template-driven worldbuilding — structured prompts for rich settings |
-| **[Intrigue](https://github.com/Jarredkern/intrigue)** | NPC relationship mapper — interactive D3.js force-directed network graph |
-| **[Oath](https://github.com/Jarredkern/oath)** | Session zero generator — social contracts, safety tools, tone setting |
-| **[Outlands](https://github.com/Jarredkern/outlands)** | Hex crawl generator — SVG hex maps with terrain painting and encounters |
-| **[Favor](https://github.com/Jarredkern/favor)** | Faction reputation tracker — character-faction heatmap with tier system |
-| **[Voicecraft](https://github.com/Jarredkern/voicecraft)** | NPC voice profiles — dialect mixing, coaching prompts, sample dialogue |
+| **[Loreforge](https://github.com/DarkCandyLord/loreforge)** | Template-driven worldbuilding — structured prompts for rich settings |
+| **[Intrigue](https://github.com/DarkCandyLord/intrigue)** | NPC relationship mapper — interactive D3.js force-directed network graph |
+| **[Oath](https://github.com/DarkCandyLord/oath)** | Session zero generator — social contracts, safety tools, tone setting |
+| **[Outlands](https://github.com/DarkCandyLord/outlands)** | Hex crawl generator — SVG hex maps with terrain painting and encounters |
+| **[Favor](https://github.com/DarkCandyLord/favor)** | Faction reputation tracker — character-faction heatmap with tier system |
+| **[Voicecraft](https://github.com/DarkCandyLord/voicecraft)** | NPC voice profiles — dialect mixing, coaching prompts, sample dialogue |
 
 ---
 
